@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://manjur4d.milli.link/sitemap.xml
